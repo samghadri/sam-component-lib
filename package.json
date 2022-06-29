@@ -50,12 +50,12 @@
     "last 2 versions",
     "not dead"
   ],
-  "main": "dist/sam-component-lib.common.js ",
   "files": [
     "dist/*",
     "src/*",
     "public/*",
     "*.json",
     "*.js"
-  ]
+  ],
+  "main": "./dist/sam-component-lib.common.js "
 }
