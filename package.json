@@ -1,7 +1,7 @@
 {
   "name": "sam-component-lib",
   "description": "A simple vuejs Hello World plugin Designed and delivered by Sam",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "private": false,
   "author": {
     "name": "Sam Ghadri",
